@@ -6,17 +6,17 @@ public class GameStart {
 		
 		
 		Zufallsname ZName = new Zufallsname();
-		SpielEinstellungen SEinst = new SpielEinstellungen();
-		String Spieler = JOptionPane.showInputDialog(null, "Naaa, verr‰ts du mir auch deinen Namen du kleiner Frechdachs?");
+		//SpielEinstellungen SEinst = new SpielEinstellungen();
+		String Spieler = JOptionPane.showInputDialog(null, "Naaa, verr√§ts du mir auch deinen Namen du kleiner Frechdachs?");
 		JOptionPane.showMessageDialog(null, "<html> Info: <br>"
 										  + "-   Beachte die Tool Tips<br>"
 										  + "-   Beim ersten Silo gibts Gratis Futter<br>"
-										  + "-   du brauchst Land f¸r Geb‰ude<br>"
-										  + "-   du brauchst Silos f¸r Futter<br>"
-										  + "-   du brauchst St‰lle f¸r deine Zie ie ie ie ie gen<br>"
+										  + "-   du brauchst Land f√ºr Geb√§ude<br>"
+										  + "-   du brauchst Silos f√ºr Futter<br>"
+										  + "-   du brauchst St√§lle f√ºr deine Zie ie ie ie ie gen<br>"
 										  + "-   wenn deine Ziegen kein Futter haben, geben sie nach und nach weniger Milch<br>"
-										  + "-   Versuche in mˆglichst wenigen Runden Million‰r zu werden<br><br>"
-										  + "Viel Spaﬂ!<html>");
+										  + "-   Versuche in m√∂glichst wenigen Runden Million√§r zu werden<br><br>"
+										  + "Viel Spa√ü!<html>");
 		
 		if (Spieler == null || Spieler.length() <= 2){
 			@SuppressWarnings("unused")
