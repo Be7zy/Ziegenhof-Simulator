@@ -43,7 +43,7 @@ Bei der Umsetzung dieses Projekts habe ich folgende Kernkompetenzen vertieft:
 
 ## Screenshots
 Füge hier ein Bild ein:
-![Gameplay](docs/screenshot.png)
+![Gameplay](docs/Screenshot.png)
 
 ## Mitmachen / Contributing
 Siehe CONTRIBUTING.md
