@@ -42,7 +42,7 @@ Bei der Umsetzung dieses Projekts habe ich folgende Kernkompetenzen vertieft:
 3. **Fehlerbehebung:** Debugging von Logikfehlern bei der Punkteberechnung.# Ziegenhof-Simulator
 
 ## Screenshots
-Füge hier ein Bild ein:
+
 ![Gameplay](docs/Screenshot.png)
 
 ## Mitmachen / Contributing
