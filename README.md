@@ -1,4 +1,4 @@
-# Ziegenhof-Simulator
+# Ziegenhof-Simulator by Be7zy
 
 Ein interaktives Klickspiel, entwickelt in Java. Dieses Projekt demonstriert die Grundlagen der objektorientierten Programmierung (OOP) und der grafischen Benutzeroberflächen-Entwicklung.
 
